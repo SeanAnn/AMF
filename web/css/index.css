@@ -1,0 +1,53 @@
+#logo{
+    margin-top:100px;
+}
+
+.searchBarOut{
+    width:550px;
+    height:40px;
+    margin-top:50px;
+    border: 1px solid #d8d8d8;
+    line-height: 2em;
+    outline:0;
+}
+
+.searchBarOver{
+    width:550px;
+    height:40px;
+    margin-top:50px;
+    box-shadow: 2px 2px 2px #ccc;
+    border: 1px solid #d8d8d8;
+    outline:0;
+    background: #fff;
+}
+
+.radioPosition{
+    margin-top:30px;
+}
+
+.labelPostion{
+    margin-left:3%;
+}
+
+.searchedTable{
+    margin-top:50px;
+    overflow-y: auto;
+    height: 600px;
+    width: 100%;
+}
+
+.backButton{
+    margin-top:20px;
+    width: 180px;
+    height: 40px;
+    font-size:1.2em;
+}
+
+.imagePosition{
+    margin-bottom:70px;
+}
+
+.captionPosition{
+    font-size:2em; 
+    margin-bottom:15px;
+}
